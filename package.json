@@ -1,0 +1,22 @@
+{
+  "name": "koa2-temp-project",
+  "version": "1.0.0",
+  "description": "基础的npm install的项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnsonX/node-koa2-temp-project.git"
+  },
+  "author": "xingqx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnsonX/node-koa2-temp-project/issues"
+  },
+  "homepage": "https://github.com/AnsonX/node-koa2-temp-project#readme",
+  "dependencies": {
+    "koa": "^2.5.3"
+  }
+}
